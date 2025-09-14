@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parsel360.Api", "Parsel360.Api\Parsel360.Api.csproj", "{95DCA1E3-11C9-9269-C714-DC99717E3F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95DCA1E3-11C9-9269-C714-DC99717E3F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95DCA1E3-11C9-9269-C714-DC99717E3F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95DCA1E3-11C9-9269-C714-DC99717E3F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95DCA1E3-11C9-9269-C714-DC99717E3F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88A17E8F-7042-45A3-A975-012331166AEE}
+	EndGlobalSection
+EndGlobal

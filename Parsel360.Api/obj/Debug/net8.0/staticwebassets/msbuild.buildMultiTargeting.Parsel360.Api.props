@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Parsel360.Api.props" />
+</Project>
